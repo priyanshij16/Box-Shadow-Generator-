@@ -1,0 +1,23 @@
+.App{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+}
+.controls{
+    width: 10vw;
+}
+.box{
+    text-align: center;padding: 20vh 0px;
+    width: 50vw; height: 25vh;
+    /* padding: ; */
+    background-color: rgb(11, 137, 110);
+    color: rgb(40, 5, 5);
+}
+h2{
+    align-items:center; 
+    width: 50vh;
+    padding: 20px; 
+    background-color: brown;
+    font-style: italic;
+}
